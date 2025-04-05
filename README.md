@@ -2,8 +2,6 @@
 
 Welcome to the Solana Volume Bot, an open-source script designed to help you achieve desired transaction volumes on the Solana blockchain. This powerful tool is perfect for users looking to manage multiple transactions efficiently and effectively.
 
-NOTE: This is a older version of my Solana Volume bot, **join our [DISCORD](https://discord.gg/solana-scripts) for more info**
-
 
 OPEN Source Version:
 
@@ -63,14 +61,9 @@ Step 4: Execute the volume bot to get your desired volume. It is recommended to 
 #### e) Retrieve Funds
 Step 5: Retrieve all funds from the keypairs automatically. This step will retrieve all the WSOL and SOL you sent and send it to the wallet in the config file.
 
-## Additional Resources
-
-For more detailed instructions and updates, visit our Discord below or DM me at @benorizz0 on Telegram. Here you will find comprehensive documentation and community support for any issues you encounter.
-
 ### Conclusion
 
-The Solana Volume Bot is a robust tool for managing multiple transactions on the Solana blockchain. By following the setup and execution steps outlined above, you can efficiently handle buying and selling operations with ease. Join our community on GitHub and take advantage of this powerful open-source solution.
+The Solana Volume Bot is a robust tool for managing multiple transactions on the Solana blockchain. By following the setup and execution steps outlined above, you can efficiently handle buying and selling operations with ease. 
 
 Optimize your Solana transactions today with the Solana Volume Bot!
 
-For more information, check out our [DISCORD](https://discord.gg/solana-scripts)
